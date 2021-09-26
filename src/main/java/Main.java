@@ -7,7 +7,8 @@ public class Main {
 
 	
 	public static void main(String[] args) {
-		
+
+		// modificatrion for test2
 		String sample="minMax.sln" ;
 	
 		
